@@ -28,8 +28,6 @@ Creating dynamic measures to calculate cricket statistics.
 
 Designing professional sports analytics dashboards.
 
-Structuring a Power BI report with proper layout, fonts, and formatting.
-
 Handling sports datasets with multiple fact fields.
 
 📈 Dashboard Insights
